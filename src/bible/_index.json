@@ -69,7 +69,7 @@
     "shortTitle": "1 Samuel",
     "abbr": "1 S",
     "category": "Históricos",
-    "key": "1_samuel"
+    "key": "primera_samuel"
   },
   {
     "testament": "A.T.",
@@ -77,7 +77,7 @@
     "shortTitle": "2 Samuel",
     "abbr": "2 S",
     "category": "Históricos",
-    "key": "2_samuel"
+    "key": "segunda_samuel"
   },
   {
     "testament": "A.T.",
@@ -85,7 +85,7 @@
     "shortTitle": "1 Reyes",
     "abbr": "1 R",
     "category": "Históricos",
-    "key": "1_reyes"
+    "key": "primera_reyes"
   },
   {
     "testament": "A.T.",
@@ -93,7 +93,7 @@
     "shortTitle": "2 Reyes",
     "abbr": "2 R",
     "category": "Históricos",
-    "key": "2_reyes"
+    "key": "segunda_reyes"
   },
   {
     "testament": "A.T.",
@@ -101,7 +101,7 @@
     "shortTitle": "1 Crónicas",
     "abbr": "1 Cr",
     "category": "Históricos",
-    "key": "1_cronicas"
+    "key": "primera_cronicas"
   },
   {
     "testament": "A.T.",
@@ -109,7 +109,7 @@
     "shortTitle": "2 Crónicas",
     "abbr": "2 Cr",
     "category": "Históricos",
-    "key": "2_cronicas"
+    "key": "segunda_cronicas"
   },
   {
     "testament": "A.T.",
@@ -365,7 +365,7 @@
     "shortTitle": "1 Corintios",
     "abbr": "1 Co",
     "category": "Epístolas Paulinas",
-    "key": "1_corintios"
+    "key": "primera_corintios"
   },
   {
     "testament": "N.T.",
@@ -373,7 +373,7 @@
     "shortTitle": "2 Corintios",
     "abbr": "2 Co",
     "category": "Epístolas Paulinas",
-    "key": "2_corintios"
+    "key": "segunda_corintios"
   },
   {
     "testament": "N.T.",
@@ -413,7 +413,7 @@
     "shortTitle": "1 Tesalonicenses",
     "abbr": "1 Ts",
     "category": "Epístolas Paulinas",
-    "key": "1_tesalonicenses"
+    "key": "primera_tesalonicenses"
   },
   {
     "testament": "N.T.",
@@ -421,7 +421,7 @@
     "shortTitle": "2 Tesalonicenses",
     "abbr": "2 Ts",
     "category": "Epístolas Paulinas",
-    "key": "2_tesalonicenses"
+    "key": "segunda_tesalonicenses"
   },
   {
     "testament": "N.T.",
@@ -429,7 +429,7 @@
     "shortTitle": "1 Timoteo",
     "abbr": "1 Ti",
     "category": "Epístolas Paulinas",
-    "key": "1_timoteo"
+    "key": "primera_timoteo"
   },
   {
     "testament": "N.T.",
@@ -437,7 +437,7 @@
     "shortTitle": "2 Timoteo",
     "abbr": "2 Ti",
     "category": "Epístolas Paulinas",
-    "key": "2_timoteo"
+    "key": "segunda_timoteo"
   },
   {
     "testament": "N.T.",
@@ -477,7 +477,7 @@
     "shortTitle": "1 Pedro",
     "abbr": "1 P",
     "category": "Epístolas Universales",
-    "key": "1_pedro"
+    "key": "primera_pedro"
   },
   {
     "testament": "N.T.",
@@ -485,7 +485,7 @@
     "shortTitle": "2 Pedro",
     "abbr": "2 P",
     "category": "Epístolas Universales",
-    "key": "2_pedro"
+    "key": "segunda_pedro"
   },
   {
     "testament": "N.T.",
@@ -493,7 +493,7 @@
     "shortTitle": "1 Juan",
     "abbr": "1 Jn",
     "category": "Epístolas Universales",
-    "key": "1_juan"
+    "key": "primera_juan"
   },
   {
     "testament": "N.T.",
@@ -501,7 +501,7 @@
     "shortTitle": "2 Juan",
     "abbr": "2 Jn",
     "category": "Epístolas Universales",
-    "key": "2_juan"
+    "key": "segunda_juan"
   },
   {
     "testament": "N.T.",
@@ -509,7 +509,7 @@
     "shortTitle": "3 Juan",
     "abbr": "3 Jn",
     "category": "Epístolas Universales",
-    "key": "3_juan"
+    "key": "tercera_juan"
   },
   {
     "testament": "N.T.",
