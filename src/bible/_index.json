@@ -1,0 +1,530 @@
+[
+  {
+    "testament": "A.T.",
+    "title": "Libro del Génesis",
+    "shortTitle": "Génesis",
+    "abbr": "Gn",
+    "category": "Pentateuco",
+    "key": "genesis"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro del Éxodo",
+    "shortTitle": "Éxodo",
+    "abbr": "Ex",
+    "category": "Pentateuco",
+    "key": "exodo"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro del Levítico",
+    "shortTitle": "Levítico",
+    "abbr": "Lv",
+    "category": "Pentateuco",
+    "key": "levitico"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro de los Números",
+    "shortTitle": "Números",
+    "abbr": "Nm",
+    "category": "Pentateuco",
+    "key": "numeros"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro del Deuteronomio",
+    "shortTitle": "Deuteronomio",
+    "abbr": "Dt",
+    "category": "Pentateuco",
+    "key": "deuteronomio"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro de Josué",
+    "shortTitle": "Josué",
+    "abbr": "Jos",
+    "category": "Históricos",
+    "key": "josue"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro de los Jueces",
+    "shortTitle": "Jueces",
+    "abbr": "Jue",
+    "category": "Históricos",
+    "key": "jueces"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro de Rut",
+    "shortTitle": "Rut",
+    "abbr": "Rt",
+    "category": "Históricos",
+    "key": "rut"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro I de Samuel",
+    "shortTitle": "1 Samuel",
+    "abbr": "1 S",
+    "category": "Históricos",
+    "key": "1_samuel"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro II de Samuel",
+    "shortTitle": "2 Samuel",
+    "abbr": "2 S",
+    "category": "Históricos",
+    "key": "2_samuel"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro I de los Reyes",
+    "shortTitle": "1 Reyes",
+    "abbr": "1 R",
+    "category": "Históricos",
+    "key": "1_reyes"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro II de los Reyes",
+    "shortTitle": "2 Reyes",
+    "abbr": "2 R",
+    "category": "Históricos",
+    "key": "2_reyes"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro I de las Crónicas",
+    "shortTitle": "1 Crónicas",
+    "abbr": "1 Cr",
+    "category": "Históricos",
+    "key": "1_cronicas"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro II de las Crónicas",
+    "shortTitle": "2 Crónicas",
+    "abbr": "2 Cr",
+    "category": "Históricos",
+    "key": "2_cronicas"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro I de Esdras (Esdras)",
+    "shortTitle": "Esdras",
+    "abbr": "Esd",
+    "category": "Históricos",
+    "key": "esdras"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro II de Esdras (Nehemías)",
+    "shortTitle": "Nehemías",
+    "abbr": "Neh",
+    "category": "Históricos",
+    "key": "nehemias"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro de Esther",
+    "shortTitle": "Ester",
+    "abbr": "Est",
+    "category": "Hagiógrafos",
+    "key": "ester"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro de Job",
+    "shortTitle": "Job",
+    "abbr": "Job",
+    "category": "Hagiógrafos",
+    "key": "job"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro de los Salmos",
+    "shortTitle": "Salmos",
+    "abbr": "Sal",
+    "category": "Poéticos y Sapienciales",
+    "key": "salmos"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro de los Proverbios",
+    "shortTitle": "Proverbios",
+    "abbr": "Pr",
+    "category": "Poéticos y Sapienciales",
+    "key": "proverbios"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro del Eclesiastés",
+    "shortTitle": "Eclesiastés",
+    "abbr": "Ec",
+    "category": "Poéticos y Sapienciales",
+    "key": "eclesiastes"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Cantar de los Cantares",
+    "shortTitle": "Cantares",
+    "abbr": "Cnt",
+    "category": "Poéticos y Sapienciales",
+    "key": "cantares"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro de Isaías",
+    "shortTitle": "Isaías",
+    "abbr": "Is",
+    "category": "Profetas Mayores",
+    "key": "isaias"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro de Jeremías",
+    "shortTitle": "Jeremías",
+    "abbr": "Jer",
+    "category": "Profetas Mayores",
+    "key": "jeremias"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro de las Lamentaciones",
+    "shortTitle": "Lamentaciones",
+    "abbr": "Lm",
+    "category": "Profetas Mayores",
+    "key": "lamentaciones"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro de Ezequiel",
+    "shortTitle": "Ezequiel",
+    "abbr": "Ez",
+    "category": "Profetas Mayores",
+    "key": "ezequiel"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Libro de Daniel",
+    "shortTitle": "Daniel",
+    "abbr": "Dn",
+    "category": "Profetas Mayores",
+    "key": "daniel"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Profecía de Oseas",
+    "shortTitle": "Oseas",
+    "abbr": "Os",
+    "category": "Profetas Menores",
+    "key": "oseas"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Profecía de Joel",
+    "shortTitle": "Joel",
+    "abbr": "Jl",
+    "category": "Profetas Menores",
+    "key": "joel"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Profecía de Amós",
+    "shortTitle": "Amós",
+    "abbr": "Am",
+    "category": "Profetas Menores",
+    "key": "amos"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Profecía de Abdías",
+    "shortTitle": "Abdías",
+    "abbr": "Abd",
+    "category": "Profetas Menores",
+    "key": "abdias"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Profecía de Jonás",
+    "shortTitle": "Jonás",
+    "abbr": "Jon",
+    "category": "Profetas Menores",
+    "key": "jonas"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Profecía de Miqueas",
+    "shortTitle": "Miqueas",
+    "abbr": "Miq",
+    "category": "Profetas Menores",
+    "key": "miqueas"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Profecía de Nahúm",
+    "shortTitle": "Nahúm",
+    "abbr": "Nah",
+    "category": "Profetas Menores",
+    "key": "nahum"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Profecía de Habacuc",
+    "shortTitle": "Habacuc",
+    "abbr": "Hab",
+    "category": "Profetas Menores",
+    "key": "habacuc"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Profecía de Sofonías",
+    "shortTitle": "Sofonías",
+    "abbr": "Sof",
+    "category": "Profetas Menores",
+    "key": "sofonias"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Profecía de Hageo",
+    "shortTitle": "Hageo",
+    "abbr": "Hg",
+    "category": "Profetas Menores",
+    "key": "hageo"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Profecía de Zacarías",
+    "shortTitle": "Zacarías",
+    "abbr": "Zac",
+    "category": "Profetas Menores",
+    "key": "zacarias"
+  },
+  {
+    "testament": "A.T.",
+    "title": "Profecía de Malaquías",
+    "shortTitle": "Malaquías",
+    "abbr": "Mal",
+    "category": "Profetas Menores",
+    "key": "malaquias"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Evangelio de Mateo",
+    "shortTitle": "Mateo",
+    "abbr": "Mt",
+    "category": "Evangelios",
+    "key": "mateo"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Evangelio de Marcos",
+    "shortTitle": "Marcos",
+    "abbr": "Mc",
+    "category": "Evangelios",
+    "key": "marcos"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Evangelio de Lucas",
+    "shortTitle": "Lucas",
+    "abbr": "Lc",
+    "category": "Evangelios",
+    "key": "lucas"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Evangelio de Juan",
+    "shortTitle": "Juan",
+    "abbr": "Jn",
+    "category": "Evangelios",
+    "key": "juan"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Hechos de los Apóstoles",
+    "shortTitle": "Hechos",
+    "abbr": "Hch",
+    "category": "Hechos",
+    "key": "hechos"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola a los Romanos",
+    "shortTitle": "Romanos",
+    "abbr": "Ro",
+    "category": "Epístolas Paulinas",
+    "key": "romanos"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola I a los Corintios",
+    "shortTitle": "1 Corintios",
+    "abbr": "1 Co",
+    "category": "Epístolas Paulinas",
+    "key": "1_corintios"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola II a los Corintios",
+    "shortTitle": "2 Corintios",
+    "abbr": "2 Co",
+    "category": "Epístolas Paulinas",
+    "key": "2_corintios"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola a los Gálatas",
+    "shortTitle": "Gálatas",
+    "abbr": "Gl",
+    "category": "Epístolas Paulinas",
+    "key": "galatas"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola a los Efesios",
+    "shortTitle": "Efesios",
+    "abbr": "Ef",
+    "category": "Epístolas Paulinas",
+    "key": "efesios"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola a los Filipenses",
+    "shortTitle": "Filipenses",
+    "abbr": "Flp",
+    "category": "Epístolas Paulinas",
+    "key": "filipenses"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola a los Colosenses",
+    "shortTitle": "Colosenses",
+    "abbr": "Col",
+    "category": "Epístolas Paulinas",
+    "key": "colosenses"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola I a los Tesalonicenses",
+    "shortTitle": "1 Tesalonicenses",
+    "abbr": "1 Ts",
+    "category": "Epístolas Paulinas",
+    "key": "1_tesalonicenses"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola II a los Tesalonicenses",
+    "shortTitle": "2 Tesalonicenses",
+    "abbr": "2 Ts",
+    "category": "Epístolas Paulinas",
+    "key": "2_tesalonicenses"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola I a Timoteo",
+    "shortTitle": "1 Timoteo",
+    "abbr": "1 Ti",
+    "category": "Epístolas Paulinas",
+    "key": "1_timoteo"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola II a Timoteo",
+    "shortTitle": "2 Timoteo",
+    "abbr": "2 Ti",
+    "category": "Epístolas Paulinas",
+    "key": "2_timoteo"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola a Tito",
+    "shortTitle": "Tito",
+    "abbr": "Tit",
+    "category": "Epístolas Paulinas",
+    "key": "tito"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola a Filemón",
+    "shortTitle": "Filemón",
+    "abbr": "Flm",
+    "category": "Epístolas Paulinas",
+    "key": "filemon"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola a los Hebreos",
+    "shortTitle": "Hebreos",
+    "abbr": "Heb",
+    "category": "Epístolas Paulinas",
+    "key": "hebreos"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola de Santiago",
+    "shortTitle": "Santiago",
+    "abbr": "Stg",
+    "category": "Epístolas Universales",
+    "key": "santiago"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola I de Pedro",
+    "shortTitle": "1 Pedro",
+    "abbr": "1 P",
+    "category": "Epístolas Universales",
+    "key": "1_pedro"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola II de Pedro",
+    "shortTitle": "2 Pedro",
+    "abbr": "2 P",
+    "category": "Epístolas Universales",
+    "key": "2_pedro"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola I de Juan",
+    "shortTitle": "1 Juan",
+    "abbr": "1 Jn",
+    "category": "Epístolas Universales",
+    "key": "1_juan"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola II de Juan",
+    "shortTitle": "2 Juan",
+    "abbr": "2 Jn",
+    "category": "Epístolas Universales",
+    "key": "2_juan"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola III de Juan",
+    "shortTitle": "3 Juan",
+    "abbr": "3 Jn",
+    "category": "Epístolas Universales",
+    "key": "3_juan"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Epístola de Judas",
+    "shortTitle": "Judas",
+    "abbr": "Jud",
+    "category": "Epístolas Universales",
+    "key": "judas"
+  },
+  {
+    "testament": "N.T.",
+    "title": "Apocalipsis de Juan",
+    "shortTitle": "Apocalipsis",
+    "abbr": "Ap",
+    "category": "Revelaciones",
+    "key": "apocalipsis"
+  }
+]
