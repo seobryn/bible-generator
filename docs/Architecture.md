@@ -1,7 +1,7 @@
 ## Architecture Document
 
 The idea of this document is to agree a standard for the JSON files that builts
-the bible entirely, maybe in the future we can extend the generator fo other
+the bible entirely, maybe in the future we can extend the generator for other
 bible versions and make growth the content to more people and languages 😃.
 
 ## Folder Struture
