@@ -28,7 +28,11 @@ expose the bible content in the most cleaner way and available for everyone.
 
 1. download the repository code.
 2. run `yarn` command to install dependencies.
-3. run `yarn start` command to build the Bible.
+3. run `yarn start [bibleVersion] [--exportJS](optional)` command to build the
+   Bible.
+4. If you select the option `--exportJS` you can have also a `JS` file to use in
+   conjuntion with `json-server` to make any test that you need exposing your
+   bible as an API locally.
 
 ## Code Standards
 
