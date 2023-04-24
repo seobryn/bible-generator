@@ -1,6 +1,6 @@
 {
   "name": "rvr-1960-generator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "src/generator.mjs",
   "repository": "https://github.com/seobryn/rvr-1960-generator.git",
   "author": "Jose Joya <ing.jose.joya@gmail.com>",
