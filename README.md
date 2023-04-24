@@ -49,3 +49,8 @@ you like!.
 - [] include introduction for each book (WIP).
 - [] includes titles for each chapter.
 - [] include references for verses that applies.
+
+## More info
+
+- If you want to read more about the Project architecture, please read
+  [This Document](./docs/Architecture.md)
