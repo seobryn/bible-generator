@@ -1,5 +1,5 @@
 import fs from 'fs'
-const books = JSON.parse(fs.readFileSync('./src/bible/_index.json', 'utf8'))
+const books = JSON.parse(fs.readFileSync('./src/bibles/RVR1960/_index.json', 'utf8'))
 
 const exportTemplate = fs.readFileSync('./src/templates/server.txt', 'utf8')
 
@@ -18,7 +18,7 @@ fs.mkdirSync('./dist/RVR1960', { recursive: true }, (err) => {
 
 // Iterate books index to get all the Bible books
 books.forEach((book, index) => {
-  fs.readFile(`./src/bible/${book.key}.txt`, 'utf-8', (error, data) => {
+  fs.readFile(`./src/bibles/RVR1960/${book.key}.txt`, 'utf-8', (error, data) => {
     if (error) {
       console.error(error)
       process.exit(1)

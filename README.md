@@ -1,7 +1,11 @@
 # Reina Valera 1960 Bible generator
 
-The idea of this repo is to have a RVR 1960 Version of bible in JSON format to
-use where you need.
+The idea of this project is to share a RVR 1960 Version of bible in `JSON`
+format to use where you need.
+
+In some places, the bibles are exposed within HTML tags and other things inside
+the text that make it hard to use in different places, so the idea here is to
+expose the bible content in the most cleaner way and available for everyone.
 
 ## Reina Valera 1960 bible
 
