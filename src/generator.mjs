@@ -71,7 +71,7 @@ function createIndex (books) {
   )
 
   let importSection = books.reduce((content, book) => {
-    content += `const _${book.key} =  require('./RVR1960/${book.key}.json')\n`
+    content += `const ${book.key} =  require('./RVR1960/${book.key}.json')\n`
     return content
   }, '')
   importSection += "const index = require('./RVR1960/index.json')\n"
