@@ -38,8 +38,11 @@ bible versions and make growth the content to more people and languages 😃.
 [
   {
     "chapter": 1, /* Chapter Number */
+    "title": "", /* Special Title for the chapter, not included yet, but yes in the future */
     "verses": [
       {
+        "title": "", /* Special Title for the verse if applies, not included yet, but yes in the future */
+        "reference": "", /* Reference for the verse if applies, not included yet, but yes in the future  */
         "verse": 1, /* Verse Number */
         "content": "En el principio creó Dios los cielos y la tierra." /* Verse content */
       }
